@@ -25,12 +25,11 @@ Proyecto Maven del **Taller 1: Configuración del entorno profesional** (Program
 
 | Integrante | Java (Temurin) | Git | IntelliJ IDEA |
 |---|---|---|---|
-| María Anchundia | 21.0.3 | (completar) | (completar) |
-| Narciso Galarza | 21 (completar tras instalar el JDK 21) | 2.52.0 | (completar) |
-| Brithany Rivera | 21.0.7 | 2.52.0 | (completar) |
-| Alfonso Olvera | 21.0.3 | (completar) | (completar) |
-| Michael Caicedo | 21.0.3 | (completar) | (completar) |
-
+| María Anchundia | 21.0.3 | 2.52.0 | 2025.3.1 |
+| Narciso Galarza | 21 y 25.0.3 (usa el 21 para el taller) | 2.52.0 | 2025.3.1 |
+| Brithany Rivera | 21.0.7 | 2.52.0 | 2025.3.1 |
+| Alfonso Olvera | 21.0.3 | 2.52.0 | 2025.3.1 |
+| Michael Caicedo | 21.0.3 | 2.52.0 | 2025.3.1 |
 ## Estructura del proyecto
 
 ```
