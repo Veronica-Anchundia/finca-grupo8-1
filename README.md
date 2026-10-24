@@ -30,6 +30,7 @@ Proyecto Maven del **Taller 1: Configuración del entorno profesional** (Program
 | Brithany Rivera | 21.0.7 | 2.52.0 | 2025.3.1 |
 | Alfonso Olvera | 21.0.3 | 2.52.0 | 2025.3.1 |
 | Michael Caicedo | 21.0.3 | 2.52.0 | 2025.3.1 |
+
 ## Estructura del proyecto
 
 ```
@@ -62,7 +63,7 @@ finca-grupo08
    ```
    La primera línea de `java -version` debe comenzar con `openjdk version "21`.
 3. Abrir el proyecto en IntelliJ IDEA con el JDK 21.
-4. En la ventana **Maven** (borde derecho), abrir **Lifecycle** y hacer doble clic en **test**, o ejecutar en la terminal:
+4. En la ventana **Maven**, abrir **Lifecycle** y hacer doble clic en **test**, o ejecutar:
    ```
    mvn test
    ```
@@ -71,7 +72,7 @@ finca-grupo08
    Tests run: N, Failures: 0, Errors: 0, Skipped: 0
    BUILD SUCCESS
    ```
-   La primera vez, Maven descarga bibliotecas y puede tardar; no cancelar el proceso.
+   La primera vez Maven descarga bibliotecas y puede tardar; no cancelar el proceso.
 
 ## Flujo de trabajo en equipo
 
