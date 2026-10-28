@@ -15,11 +15,11 @@ Proyecto Maven del **Taller 1: Configuración del entorno profesional** (Program
 
 | Integrante | Rol en el taller | Usuario de GitHub |
 |---|---|---|
-| María Anchundia | Líder de integración | [vero11-lang](https://github.com/vero11-lang) |
-| Narciso Galarza | Responsable de pruebas | [galarzanarciso-lab](https://github.com/galarzanarciso-lab) |
-| Brithany Rivera | Responsable de pruebas | [brithanyrivera1502-hue](https://github.com/brithanyrivera1502-hue) |
-| Alfonso Olvera | Responsable de documentación | [gansudokentpc-oss](https://github.com/gansudokentpc-oss) |
-| Michael Caicedo | Verificador | [Michael1994-link](https://github.com/Michael1994-link) |
+| María Anchundia | Líder de integración | 
+| Narciso Galarza | Responsable de pruebas | 
+| Brithany Rivera | Responsable de pruebas | 
+| Alfonso Olvera | Responsable de documentación | 
+| Michael Caicedo | Verificador | 
  
  ## 3. Objetivo
 Configurar en equipo el entorno profesional de desarrollo de la asignatura JDK21, IntelliJ IDEA, Maven, JUnit 5 y Git con GitHub y demostrarlo con un proyecto Maven compartido, con pruebas unitarias aprobadas y un historial de commits en el que participen todos los integrantes.
