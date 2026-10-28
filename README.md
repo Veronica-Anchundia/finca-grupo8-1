@@ -23,6 +23,7 @@ Proyecto Maven del **Taller 1: Configuración del entorno profesional** (Program
  
  ## 3. Objetivo
 Configurar en equipo el entorno profesional de desarrollo de la asignatura JDK21, IntelliJ IDEA, Maven, JUnit 5 y Git con GitHub y demostrarlo con un proyecto Maven compartido, con pruebas unitarias aprobadas y un historial de commits en el que participen todos los integrantes.
+<img width="1777" height="885" alt="image" src="https://github.com/user-attachments/assets/218647ca-d6ac-4de7-8291-8e30fc205772" />
 
 
 ## Versiones utilizadas
