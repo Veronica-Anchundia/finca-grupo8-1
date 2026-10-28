@@ -48,7 +48,20 @@ Pc de la compañera Verónica captura 4_Verificación del entorno
 <img width="1777" height="885" alt="image" src="https://github.com/user-attachments/assets/e4788ba0-25da-4214-b04e-08530ac19396" />
 Pc del compañero Narciso captura 5_Verificación del entorno
 
-Evidencias del proyecto y pruebas unitarias
+Evidencias del Proyecto y Pruebas Unitarias (Parte B)
+
+<img width="1919" height="1025" alt="Captura de pantalla 2026-10-21 220039" src="https://github.com/user-attachments/assets/1b763a74-7964-4de6-bed6-76e258e49577" />
+Ejecución exitosa de pruebas unitarias con Maven 
+
+Evidencias de Trabajo Colaborativo Parte C y D
+
+<img width="509" height="272" alt="image" src="https://github.com/user-attachments/assets/96a9052e-d555-43ac-96e9-6258cbfc43d7" />
+
+Ejecución exitosa de pruebas
+
+Parte D documentación y cierre
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/79b41df2-a9b5-48b8-94df-56d833c9595a" />
+
 
 ## Versiones utilizadas
 
