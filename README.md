@@ -23,8 +23,32 @@ Proyecto Maven del **Taller 1: Configuración del entorno profesional** (Program
  
  ## 3. Objetivo
 Configurar en equipo el entorno profesional de desarrollo de la asignatura JDK21, IntelliJ IDEA, Maven, JUnit 5 y Git con GitHub y demostrarlo con un proyecto Maven compartido, con pruebas unitarias aprobadas y un historial de commits en el que participen todos los integrantes.
-<img width="1777" height="885" alt="image" src="https://github.com/user-attachments/assets/218647ca-d6ac-4de7-8291-8e30fc205772" />
 
+Enlace al repositorio: https://github.com/galarzanarciso-lab/finca-grupo8
+Evidencias de la Preparación Individual (Parte A)
+
+Capturas de pantalla de la terminal de cada integrante ejecutando java -versión (comprobando que sea la versión 21) y git --version.
+
+<img width="1777" height="885" alt="image" src="https://github.com/user-attachments/assets/218647ca-d6ac-4de7-8291-8e30fc205772" />
+Pc de la compañera Brithany captura 1_Verificación del entorno
+
+
+<img width="1777" height="885" alt="image" src="https://github.com/user-attachments/assets/4aa54d9a-7919-4c7a-9d85-d95c31fff2cf" />
+Pc del compañero Alfonso captura 2_Verificación del entorno
+
+
+<img width="1777" height="885" alt="image" src="https://github.com/user-attachments/assets/99950429-8031-4e12-9172-d314942df524" />
+Pc del compañero Caicedo captura 3_Verificación del entorno
+
+
+<img width="1777" height="885" alt="image" src="https://github.com/user-attachments/assets/a1d41b49-76e6-4c71-8151-c049d12553a9" />
+Pc de la compañera Verónica captura 4_Verificación del entorno
+
+
+<img width="1777" height="885" alt="image" src="https://github.com/user-attachments/assets/e4788ba0-25da-4214-b04e-08530ac19396" />
+Pc del compañero Narciso captura 5_Verificación del entorno
+
+Evidencias del proyecto y pruebas unitarias
 
 ## Versiones utilizadas
 
